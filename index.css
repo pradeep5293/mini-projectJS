@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: darkgrey;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#center{
+    
+    width: 400px;
+    height: 250px;
+    border: 1px solid rgb(166, 103, 103);
+}
